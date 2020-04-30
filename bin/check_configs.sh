@@ -8,3 +8,4 @@ do
   echo "* check config file: $(basename "${config_file}")"
   nichtparasoup config --check "$config_file" || exit $?
 done
+
