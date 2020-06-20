@@ -1,5 +1,5 @@
 # running version of nichtparasoup
-nichtparasoup == 2.3
+nichtparasoup >= 2.0, < 3.0
 
 # used imagecrawler-plugins
 
